@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-02T14:56:31.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="YPz6Q5ZNNRgyFnkEQlXR" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-02T15:03:37.622Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="VuYYmk9-rn3gPzYmrEdt" version="15.3.8" type="github">
   <diagram id="gVg1l_e5ngf7s3ofBA7y" name="Page-1">
     <mxGraphModel dx="1420" dy="1215" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           <mxGeometry x="642.5" y="300" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="CPA8m_iI57cZgcrJaICC-57" value="Load Balancer&lt;br&gt;Backend Pool" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;opacity=50;" parent="1" vertex="1">
-          <mxGeometry x="695" y="550" width="90" height="30" as="geometry" />
+          <mxGeometry x="695" y="580" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="CPA8m_iI57cZgcrJaICC-58" value="Red Team Network" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;dashed=1;opacity=50;" parent="1" vertex="1">
           <mxGeometry x="455" y="290.5" width="120" height="20" as="geometry" />
@@ -297,6 +297,27 @@
         </mxCell>
         <mxCell id="SJfGVHEzepV90QxteeoU-43" value="DVWA&amp;nbsp;&lt;br&gt;Containers&lt;br&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="712.5" y="463.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SJfGVHEzepV90QxteeoU-44" value="ansible" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="465" y="528.5" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJfGVHEzepV90QxteeoU-47" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJfGVHEzepV90QxteeoU-45" target="SJfGVHEzepV90QxteeoU-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJfGVHEzepV90QxteeoU-45" value="Red to Elk" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="712.5" y="420" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJfGVHEzepV90QxteeoU-46" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="850" y="410" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJfGVHEzepV90QxteeoU-53" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJfGVHEzepV90QxteeoU-48" target="SJfGVHEzepV90QxteeoU-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJfGVHEzepV90QxteeoU-48" value="Elk to Red" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="841" y="528.5" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="SJfGVHEzepV90QxteeoU-52" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="518.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
