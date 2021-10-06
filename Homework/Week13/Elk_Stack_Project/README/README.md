@@ -6,8 +6,8 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
 
-  - TODO
-
+ (https://github.com/BluFlcn/Jason-Scherer-Cyber-Security-Bootcamp/blob/main/Homework/Week13/Elk_Stack_Project/Elk%20Stack%20Project/Ansible/filebeat-playbook.yml)
+(https://github.com/BluFlcn/Jason-Scherer-Cyber-Security-Bootcamp/blob/main/Homework/Week13/Elk_Stack_Project/Elk%20Stack%20Project/Ansible/Filebeat%20Playbook%20yml.PNG
 
 This document contains the following details:
 - Description of the Topologu
