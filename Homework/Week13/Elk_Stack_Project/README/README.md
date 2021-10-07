@@ -8,6 +8,8 @@ These files have been tested and used to generate a live ELK deployment on Azure
 
  (https://github.com/BluFlcn/Jason-Scherer-Cyber-Security-Bootcamp/blob/main/Homework/Week13/Elk_Stack_Project/Elk_Stack_Project/Ansible/filebeat-playbook.yml)
 
+![Elk Stack Diagram](ElkStackDiagram.drawio.PNG)
+
 This document contains the following details:
 - Description of the Topologu
 - Access Policies
