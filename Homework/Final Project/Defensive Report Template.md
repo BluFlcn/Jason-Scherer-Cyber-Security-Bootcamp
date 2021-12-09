@@ -8,7 +8,7 @@
 - Suggestions for Going Further
 
 ### Network Topology
-(https://github.com/BluFlcn/Jason-Scherer-Cyber-Security-Bootcamp/blob/main/Homework/Final%20Project/ImageDump/Final%20Network%20Network%20Map.PNG)
+![image](https://github.com/BluFlcn/Jason-Scherer-Cyber-Security-Bootcamp/blob/main/Homework/Final%20Project/ImageDump/Final%20Network%20Network%20Map.PNG)
 
 ### The following machines were identified on the network:
 
